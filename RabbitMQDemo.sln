@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserRegister.Service", "UserRegister.Service\UserRegister.Service.csproj", "{2DAF3E78-6567-4392-B4AB-4CE0C3FF7FCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Email.Service", "Email.Service\Email.Service.csproj", "{3BE043B9-5B98-49F6-8769-0CF9E180478C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmsSender.Service", "SmsSender.Service\SmsSender.Service.csproj", "{B7149946-80E6-4CF1-90C7-83A0D2175708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DAF3E78-6567-4392-B4AB-4CE0C3FF7FCE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DAF3E78-6567-4392-B4AB-4CE0C3FF7FCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DAF3E78-6567-4392-B4AB-4CE0C3FF7FCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DAF3E78-6567-4392-B4AB-4CE0C3FF7FCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BE043B9-5B98-49F6-8769-0CF9E180478C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BE043B9-5B98-49F6-8769-0CF9E180478C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BE043B9-5B98-49F6-8769-0CF9E180478C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BE043B9-5B98-49F6-8769-0CF9E180478C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7149946-80E6-4CF1-90C7-83A0D2175708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7149946-80E6-4CF1-90C7-83A0D2175708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7149946-80E6-4CF1-90C7-83A0D2175708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7149946-80E6-4CF1-90C7-83A0D2175708}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
